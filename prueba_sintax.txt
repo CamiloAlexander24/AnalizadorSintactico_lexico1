@@ -1,0 +1,19 @@
+*
+@@Comentario
+entero numEntero = 2;
+
+// Condición si 4 es menor que 10
+Si (4 < 10) Entonces
+
+    // Asignar a numEntero el valor de 7 + 2
+    numEntero = 7 + 2;
+
+FinSi
+
+// Bucle for que va de 1 a 3
+Para (entero x = 1; x <= 3; x = x + 1)
+
+    @@codigooo
+
+Finfor
+**
